@@ -1,0 +1,13 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="10" y="10" width="180" height="80" rx="20" fill="#3498db" />
+  
+  <!-- Cart icon -->
+  <path d="M60,45 L140,45 L130,75 L70,75 Z" fill="#ffffff" />
+  <circle cx="80" cy="85" r="5" fill="#ffffff" />
+  <circle cx="120" cy="85" r="5" fill="#ffffff" />
+  
+  <!-- Text -->
+  <text x="100" y="40" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">eCommerce</text>
+  <text x="100" y="60" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="#2c3e50">Dashboard</text>
+</svg>
